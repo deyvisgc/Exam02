@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "927575118732",
+    "firebase_url": "https://apprestaurante-199316.firebaseio.com",
+    "project_id": "apprestaurante-199316",
+    "storage_bucket": "apprestaurante-199316.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927575118732:android:4e6f43dbe15e8f86",
+        "android_client_info": {
+          "package_name": "com.example.deyvis.exam02"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "927575118732-gm3ukhs716en5qho01d72mueuhg4nn1h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASDob-R_TAa3y4ROswa28mTCvcHunvQFM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
